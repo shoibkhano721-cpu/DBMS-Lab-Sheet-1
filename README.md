@@ -1,2 +1,2 @@
-# DBMS-Lab-Sheet-1
-DBMS Lab Sheet 1 - DDL Commands
+# DBMS-Lab-Sheet
+DBMS Lab Sheet  - DDL Commands
